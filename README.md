@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# customer-support-shipping
-Here is a concise repository description (under 350 characters):  > A modular Python routing agent built on the Google Antigravity SDK. It classifies incoming queries, routing shipping inquiries (rates, tracking, returns) to a dedicated Shipping FAQ agent, and politely declining unrelated topics.
-=======
 # Customer Support Agent (Shipping FAQ)
 
 An intelligent customer support agent wrapper built using python and the Google Antigravity SDK. It acts as a representative for a shipping company, routing and handling user requests depending on query relevance.
@@ -59,4 +55,3 @@ Execute the workflow simulation with sample test inputs:
 ```bash
 PYTHONPATH=. python3 test_workflow.py
 ```
->>>>>>> b258701 (Initial commit: Customer Support Shipping Agent)
